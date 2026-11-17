@@ -10,6 +10,8 @@
 
 本项目以漩涡社游戏的实际问题为开发对象，不承诺覆盖该会社所有作品，也不承诺适用于其他厂商的 YU-RIS 游戏。它是个人研究学习工具，不是 Whirlpool 或 YU-RIS 官方补丁。
 
+**项目作者不对任何使用造成的损失负责**
+
 ## 下载与使用
 
 发布后请在本仓库的 **Releases** 中下载 `Whirlpool-YURIS-JoyFix-windows-x64.zip`，不要把 GitHub 自动生成的 Source code ZIP 当作安装器。
