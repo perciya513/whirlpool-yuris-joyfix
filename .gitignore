@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.dll
+*.bak
+*.joyfix.json
+*.ypf
+*.sd
+*.etl
+*.dmp
